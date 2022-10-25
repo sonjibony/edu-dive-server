@@ -9,6 +9,9 @@ app.use(cors());
 //accessing course api
 const courses = require('./data/courses.json');
 
+//accessing checkout api
+const checkout = require('./data/checkout.json');
+
 app.get('/', (req,res) => {
     res.send('Edu Dive API running')
 })
@@ -22,6 +25,16 @@ app.get('/courses/:id', (req, res) =>{
     const id = req.params.id;
     const selectedCourse = courses.find(course => course.id === id);
     res.send(selectedCourse)
+})
+
+//sending checkout data
+app.get('/checkout', (req,res) =>{
+    res.send(checkout)
+})
+app.get('/checkout/:id', (req,res) =>{
+    const id = req.params.id;
+    const selectedCheckoutPage = checkout.find(c => c.code === id );
+    res.send(selectedCheckoutPage)
 })
 
 app.listen(port, () => {
