@@ -6,7 +6,8 @@
         "ratings":"4.7",
         "views": "545",
         "description": "Introduction to widely used and effective methods of data organisation, focussing on data structures, their algorithms and the performance of these algorithms. Concepts and examples, elementary data objects, elementary data structures, arrays, lists, stacks, queues, graphs, trees, compound structures, data abstraction and primitive operations on these structures. memory management; sorting and searching; hash techniques; Introduction to the fundamental algorithms and data structures: recursion, backtrack search, lists, stacks, queues, trees, operation on sets, priority queues, graph dictionary. Introduction to the analysis of algorithms to process the basic structures. A brief introduction to database systems and the analysis of data structure performance and use in these systems.",
-        "img":"https://educator-hub.netlify.app/assets/images/course-1.jpg"
+        "img":"https://educator-hub.netlify.app/assets/images/course-1.jpg",
+        "author": "Camden David"
         
 
     },
@@ -17,7 +18,8 @@
         "ratings":"4.6",
         "views": "500",
         "description":"The study of efficient algorithms and effective algorithm design techniques. Techniques for analysis of algorithms, Methods for the design of efficient algorithms :Divide and Conquer paradigm, Greedy method, Dynamic programming, Backtracking, Basic search and traversal techniques, Graph algorithms, Elementary parallel algorithms, Algebraic simplification and transformations, Lower bound theory, NP-hard and NP-complete problems. Techniques for the design and analysis of efficient algorithms, Emphasising methods useful in practice. sorting; Data structures for sets: Heaps, Hashing; Graph algorithms: Shortest paths, Depth-first search, Network flow, Computational geometry; Integer arithmetic: gcd, primality; polynomial and matrix calculations; amortised analysis; Performance bounds, asymptotic and analysis, worst case and average case behaviour, correctness and complexity. Particular classes of algorithms such as sorting and searching are studied in detail.",
-        "img":"https://educator-hub.netlify.app/assets/images/course-2.jpg"
+        "img":"https://educator-hub.netlify.app/assets/images/course-2.jpg",
+        "author":"Cherish Sosa"
         
 
     },
@@ -28,7 +30,8 @@
         "ratings":"4.7",
         "views": "555",
         "description":"An introduction to digital systems such as computer, communication and information systems. Topics covered include Boolean algebra, digital logic gates, combinational logic circuits, decoders, encoders, multiplexers. Asynchronous and synchronous counters. Registers, flip-flops, adders, Sequential circuit analysis and design. Simple computer architecture.",
-        "img":"https://educator-hub.netlify.app/assets/images/course-6.jpg"
+        "img":"https://educator-hub.netlify.app/assets/images/course-6.jpg",
+        "author":"Fiona Dean"
 
     },
     {
@@ -38,7 +41,8 @@
         "ratings":"4.4",
         "views": "360",
         "description":"A systematic study of the various elements in computer design, including circuit design, storage mechanisms, addressing schemes, and various approaches to parallelism and distributed logic. Information representation and transfer; instruction and data access methods; the control unit; hardware and microprogrammed; memory organization.",
-        "img":"https://educator-hub.netlify.app/assets/images/course-3.jpg"
+        "img":"https://educator-hub.netlify.app/assets/images/course-3.jpg",
+        "author":"Cherish Sosa"
         
 
     },
@@ -49,7 +53,7 @@
         "ratings":"4.7",
         "views": "560",
         "description":"Introduction to concepts and methods for storing and manipulating data in stored form. File retrieval and organization. Database models and designing of database systems. The principles of database management systems. Relational database management systems. Query formulation and language. Database administration. Methods used for the storage, selection and presentation of Data. Database integrity and security. Students will work with database languages and popular application packages. Common database management systems. Structure of SQL and principals behind the design of SQL.",
-        "img":"https://educator-hub.netlify.app/assets/images/course-4.jpg"
+        "img":"https://educator-hub.netlify.app/assets/images/course-4.jpg",
         
 
     },
