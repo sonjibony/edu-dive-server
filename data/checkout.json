@@ -1,0 +1,44 @@
+[
+    {
+"code":"72by4",
+"name":"Data Structures",
+"price": "80",
+"shipping": "15",
+"delivery-time": "3-2"
+    },
+    {
+"code":"73bd1",
+"name": "Algorithms",
+"price": "90",
+"shipping": "15",
+"delivery-time": "3-2"
+    },
+    {
+"code":"63sp9",
+"name": "Digital Logic Design",
+"price": "100",
+"shipping": "15",
+"delivery-time": "3-2"
+    },
+    {
+"code":"53jr7",
+"name": "Computer Architecture",
+"price": "120",
+"shipping": "15",
+"delivery-time": "3-2"
+    },
+    {
+"code":"94cl2",
+"name": "Database System",
+"price": "90",
+"shipping": "15",
+"delivery-time": "3-2"
+    },
+    {
+"code":"80nd3",
+"name": "Computer Interfacing",
+"price": "50",
+"shipping": "15",
+"delivery-time": "3-2"
+    }
+]
