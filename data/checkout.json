@@ -1,55 +1,54 @@
 [
-    {
-        "id":"1",
-"code":"72by4",
-"name":"Data Structures",
-"price": "80",
-"shipping": "15",
-"time": "3-2"
-    },
-    {
-        "id":"2",
-      
-"code":"73bd1",
-"name": "Algorithms",
-"price": "90",
-"shipping": "15",
-"time": "3-2"
-    },
-    {
-        "id":"3",
-       
-"code":"63sp9",
-"name": "Digital Logic Design",
-"price": "100",
-"shipping": "15",
-"time": "3-2"
-    },
-    {
-        "id":"4",
-       
-"code":"53jr7",
-"name": "Computer Architecture",
-"price": "120",
-"shipping": "15",
-"time": "3-2"
-    },
-    {
-        "id":"5",
-       
-"code":"94cl2",
-"name": "Database System",
-"price": "90",
-"shipping": "15",
-"time": "3-2"
-    },
-    {
-        "id":"6",
-       
-"code":"80nd3",
-"name": "Computer Interfacing",
-"price": "50",
-"shipping": "15",
-"time": "3-2"
-    }
+  {
+    "id": "1",
+    "code": "72by4",
+    "name": "Data Structures",
+    "price": "80",
+
+    "time": "Instant after payment"
+  },
+  {
+    "id": "2",
+
+    "code": "73bd1",
+    "name": "Algorithms",
+    "price": "90",
+
+    "time": "Instant after payment"
+  },
+  {
+    "id": "3",
+
+    "code": "63sp9",
+    "name": "Digital Logic Design",
+    "price": "100",
+
+    "time": "Instant after payment"
+  },
+  {
+    "id": "4",
+
+    "code": "53jr7",
+    "name": "Computer Architecture",
+    "price": "120",
+
+    "time": "Instant after payment"
+  },
+  {
+    "id": "5",
+
+    "code": "94cl2",
+    "name": "Database System",
+    "price": "90",
+    "time": "Instant after payment"
+  },
+  {
+    "id": "6",
+
+    "code": "80nd3",
+    "name": "Computer Interfacing",
+    "price": "50",
+
+    "time": "Instant after payment"
+  }
 ]
