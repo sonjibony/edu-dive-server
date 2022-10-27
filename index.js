@@ -33,7 +33,7 @@ app.get('/checkout', (req,res) =>{
 })
 app.get('/checkout/:id', (req,res) =>{
     const id = req.params.id;
-    const selectedCheckoutPage = checkout.find(c => c.code === id );
+    const selectedCheckoutPage = checkout.find(c => c.id === id );
     res.send(selectedCheckoutPage)
 })
 
