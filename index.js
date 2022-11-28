@@ -27,7 +27,7 @@ app.get("/courses/:id", (req, res) => {
   res.send(selectedCourse);
 });
 
-//sending checkout data
+//sending checkout data to the client
 app.get("/checkout", (req, res) => {
   res.send(checkout);
 });
